@@ -1,0 +1,7 @@
+C:\Users\MY\source\repos\LineComprison\LineComprison\bin\Debug\LineComprison.exe.config
+C:\Users\MY\source\repos\LineComprison\LineComprison\bin\Debug\LineComprison.exe
+C:\Users\MY\source\repos\LineComprison\LineComprison\bin\Debug\LineComprison.pdb
+C:\Users\MY\source\repos\LineComprison\LineComprison\obj\Debug\LineComprison.csproj.AssemblyReference.cache
+C:\Users\MY\source\repos\LineComprison\LineComprison\obj\Debug\LineComprison.csproj.CoreCompileInputs.cache
+C:\Users\MY\source\repos\LineComprison\LineComprison\obj\Debug\LineComprison.exe
+C:\Users\MY\source\repos\LineComprison\LineComprison\obj\Debug\LineComprison.pdb
