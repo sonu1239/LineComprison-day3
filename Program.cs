@@ -11,6 +11,7 @@ namespace LineComprison
     {
         static void Main(string[] args)
         {
+
             //varibles declaration
             double x1, x2, y1, y2;
             double len, length;
@@ -67,12 +68,14 @@ namespace LineComprison
             {
                 Console.WriteLine("Both the lines are equal");
             }
+            else if (length > length1)
+            {
+                Console.WriteLine("Line 1 is greater than line 2");
+            }
             else
             {
-                Console.WriteLine("The lines are not equal");
+                Console.WriteLine("Line 2 is greater than line 1 ");
             }
-
         }
     }
 }
-
